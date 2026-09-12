@@ -1,0 +1,6 @@
+{
+  "name": "ojhel",
+  "version": "0.1.4",
+  "description": "Interactive CLI to generate project-specific .gitignore files",
+  "type": "module"
+}
